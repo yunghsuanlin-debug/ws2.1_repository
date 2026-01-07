@@ -3,6 +3,7 @@
 
 This project applies formal System Engineering Management principles to the design and execution of a 360-degree longitudinal rotation.
 
+"C:\Users\nolin\Downloads\Robotics Atlas GIF by BostonDynamics.gif"
 
 1. Phasing (Movement Phases)
 
@@ -12,8 +13,5 @@ This project applies formal System Engineering Management principles to the desi
 
 <img width="1218" height="278" alt="image" src="https://github.com/user-attachments/assets/9c0878b8-f3c9-499f-8722-9154744f88be" />
 
+
 3. Life Cycle Integration
-
-<img width="932" height="542" alt="image" src="https://github.com/user-attachments/assets/e4a4c58c-ce8e-4497-ac0b-b05a29ea12cb" />
-
-
